@@ -1,7 +1,7 @@
 # Runtime requirements
 --requirement requirements.txt
 
-# Testing test
+# Testing
 pytest
 codecov
 pytest-cov
