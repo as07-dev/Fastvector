@@ -7,7 +7,7 @@ PIP=pip
 
 help:
 	@echo "Available Commands:"
-	@echo " tests                  - Run unit tests"
+	@echo " tests                  - Run unit tests."
 	@echo " tests-coverage         - Run unit tests and code coverage."
 	@echo " tests-coverage-html    - Run unit tests, code coverage and generate html."
 	@echo " benchmark              - Run benchmark tests."
